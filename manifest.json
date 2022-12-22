@@ -5,9 +5,9 @@
     "display": "standalone",
     "icons": [
         {
-           "src": "dontexist",
+           "src": "assets/logo_400px.png",
            "type": "image/png",
-           "sizes": "wxh"
+           "sizes": "400x382"
         }
     ]
  }
