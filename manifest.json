@@ -1,0 +1,13 @@
+{
+    "name": "ExperiencersInternational's GitHub Portal",
+    "shortname": "Experiencer",
+    "starturl": "/",
+    "display": "standalone",
+    "icons": [
+        {
+           "src": "dontexist",
+           "type": "image/png",
+           "sizes": "wxh"
+        }
+    ]
+ }
