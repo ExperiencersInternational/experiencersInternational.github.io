@@ -8,7 +8,7 @@ Unfortunately, carrying a HDMI signal through USB-C (or rather DisplayPort, sinc
 
 You might also know that this also happens with some devices like the Nintendo Switch despite them supporting USB 3.0 (I don't own a Switch Lite, but I'm pretty sure that runs on the 2.0 standard). The reason behind this is mainly because the Switch wants to require a power input (I'd recommend using the cable that comes with your device or a fast charger, since you may experience warnings with the power brick). A power input isn't required to output video, however due to how these manufacturers have configured their devices, it is needed.
 
-## The solution
+## The solution for USB 2.0 or USB-A/B devices 
 
 Yes, believe it or not, there is a solution to this. There's a chance you might have heard of a standard called DisplayLink and it actually allows you to carry a HDMI signal through an incompatible USB port (USB 3.0+ Type-C only ports are compatible with native video out, type A ports don't work, should have clarified this earlier). DisplayLink is supported on both desktop computers and Android devices (through the DisplayLink Presenter app).
 
