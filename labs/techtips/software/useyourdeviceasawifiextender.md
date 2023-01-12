@@ -44,10 +44,15 @@ Information may not be accurate for your device to a lack of consistency between
 
 1. Turn on your device and open Settings
 2. (Skip if developer options are enabled) Go to about device and press build number 7 times (MIUI version for Xiaomi devices)
+<br> ![img|2400x1080, 25%](useyourdeviceasawifiextenderimg1.jpg)
 3. Go back and find developer options (for Xiaomi devices, it's in additional settings > developer options)
+<br> ![img|2400x1080, 25%](useyourdeviceasawifiextenderimg2.jpg)
 4. Enable tethering hardware acceleration if it isn't enabled
+<br> ![img|2400x1080, 25%](useyourdeviceasawifiextenderimg3.jpg)
 5. Go back to the main screen and find portable hotspot or tethering (idk whether my device pinned it, you might need to look in Connection and sharing (Xiaomi) or WiFi for it)
+<br> ![img|2400x1080, 25%](useyourdeviceasawifiextenderimg5.jpg)
 6. Set up portable hotspot
+<br> ![img|2400x1080, 25%](useyourdeviceasawifiextenderimg4.jpg)
 7. Configure your networks name and password
 8. Press select AP band and use 2.4GHz or 5GHz depending on your needs
 9. Go back and switch off turn off hotspot automatically 
