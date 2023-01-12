@@ -1,3 +1,5 @@
+# Replace your micro USB 3.0 cable for free without buying a new cable
+
 If you've ever used a USB 3.0 micro USB cable, for a hard drive (most of the time), you'll know they work awfully. They're pretty flimsy and break easily, but did you know that if you think your cable is unreliable, you likely have another cable in your house, albeit it will transfer at slower speeds.
 
 ## The cable
