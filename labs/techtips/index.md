@@ -3,7 +3,11 @@
 This is purely just something interesting hosting some tech tips, don't know how useful it is, but eh, maybe start a channel or something from my passions for tech.
 
 ## Go somewhere
-[D](#d) [E](#e) [F](#f) [H](#h) [S](#s) [U](#u)
+[C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [S](#s) [U](#u)
+
+### C
+
+- [Clean tracking information from a specified URL when sharing with others](web/cleantrackinginfofromlink)
 
 ### D
 
