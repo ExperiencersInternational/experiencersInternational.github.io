@@ -7,7 +7,7 @@ This is purely just something interesting hosting some tech tips, don't know how
 
 ### C
 
-- [Clean tracking information from a specified URL when sharing with others](web/cleantrackinginfofromlink)
+- [Clean tracking information from a specified URL when sharing with others](web/cleantrackinginfofromlinks)
 
 ### D
 
