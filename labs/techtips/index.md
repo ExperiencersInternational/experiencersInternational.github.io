@@ -15,6 +15,7 @@ This is purely just something interesting hosting some tech tips, don't know how
 
 ### E
 
+- [Enable advertisement blocking on every device, no need for additional software](software/enableadblockingoneverydevice)
 - [Enable Voice over LTE and WiFi Calling with no option](software/enablevolteandvowifiwithnooption)
 
 ### F
