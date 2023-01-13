@@ -18,7 +18,7 @@ This guide assumes that you don't need to go through the process of ripping your
 
 ## The guide
 
-1. Log in to music.youtube.com on a desktop computer on the account you intend to upload your library to (it works on a mobile device as well as long as you don't go through the app)
+1. Log in to [music.youtube.com](https://music.youtube.com) on a desktop computer on the account you intend to upload your library to (it works on a mobile device as well as long as you don't go through the app)
 2. Press your account icon
 3. Press upload music
 4. Select the files you want to upload
