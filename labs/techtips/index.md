@@ -3,7 +3,7 @@
 This is purely just something interesting hosting some tech tips, don't know how useful it is, but eh, maybe start a channel or something from my passions for tech.
 
 ## Go somewhere
-[D](#d) [E](#e) [H](#h) [S](#s) [U](#u)
+[D](#d) [E](#e) [F](#f) [H](#h) [S](#s) [U](#u)
 
 ### D
 
@@ -12,6 +12,10 @@ This is purely just something interesting hosting some tech tips, don't know how
 ### E
 
 - [Enable Voice over LTE and WiFi Calling with no option](software/enablevolteandvowifiwithnooption)
+
+### F
+
+- [Find MCC and MNC information of a certain SIM](software/findmccandmncinfo)
 
 ### H
 
