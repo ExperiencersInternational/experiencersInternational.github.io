@@ -83,6 +83,7 @@ Here's the additional ones:
 - IPv6 Family Friendly DNS (as well as blocking ads): `2a10:50c0::bad1:ff` and `2a10:50c0::bad2:ff`
 
 Also, when I get around to adding a Windows, Linux or macOS guide, you do not have to change your DNS to block advertisements, instead you can do something with your system files to block advertisements, you need to look for a 'hosts' list if you're planning to do that.
+
 ---
 
 Please, share with your friends if this helped you! Thanks!
