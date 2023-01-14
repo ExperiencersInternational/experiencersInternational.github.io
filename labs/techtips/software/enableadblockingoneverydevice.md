@@ -55,6 +55,19 @@ May vary by different Android skins. For whatever reason, Android TV 9+ does not
 9. Save settings and perform a connection test
 10. Your advertisement blocker is now ready (although I don't know whether you're even going to see any adverts on a 3DS)
 
+### Nintendo Switch
+
+1. Turn on your console and open Settings
+2. Scroll down on the menus until you find Internet, click on that when you do
+3. Press Internet Settings
+4. Choose the network you want to change your DNS for
+5. Press Change Settings
+6. Set DNS settings to manual
+7. Set your primary DNS to `094.140.014.014` and your secondary DNS to `094.140.014.014`
+8. Press Save
+9. Perform a connection test if asked and it should work successfully
+10. You're now blocking advertisements on your Switch (albeit YouTube will still show adverts etc)
+
 ---
 
 Please, share with your friends if this helped you! Thanks!
