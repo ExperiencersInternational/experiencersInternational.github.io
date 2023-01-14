@@ -44,6 +44,8 @@ May vary by different Android skins. For whatever reason, Android TV 9+ does not
 
 ### Nintendo 3DS
 
+The DSi follows a similar procedure to this, but you may have to scroll for internet settings and afaik, you need to use Connections 4, 5 or 6 to do this.
+
 1. Turn on your 3DS and open System Settings
 2. Press Internet Settings
 3. Select Connection Settings
@@ -56,6 +58,8 @@ May vary by different Android skins. For whatever reason, Android TV 9+ does not
 10. Your advertisement blocker is now ready (although I don't know whether you're even going to see any adverts on a 3DS)
 
 ### Nintendo Switch
+
+I feel like this should be fairly obvious, but if you have a modded Nintendo Switch, it's probably a wise idea not to change the DNS as it can lead to detection by Nintendo. Instead, you should use whatever DNS that stops Nintendo from detecting that you've been modded, albeit with the downside of having to see advertisements.
 
 1. Turn on your console and open Settings
 2. Scroll down on the menus until you find Internet, click on that when you do
@@ -77,6 +81,8 @@ Here's the additional ones:
 - IPv6 Advertisement Blocking only addresses: `2a10:50c0::ad1:ff` and `2a10:50c0::ad2:ff`
 - IPv4 Family Friendly DNS (as well as blocking ads): `94.140.14.15`, `94.140.15.16` and `family.adguard-dns.com`
 - IPv6 Family Friendly DNS (as well as blocking ads): `2a10:50c0::bad1:ff` and `2a10:50c0::bad2:ff`
+
+Also, when I get around to adding a Windows, Linux or macOS guide, you do not have to change your DNS to block advertisements, instead you can do something with your system files to block advertisements, you need to look for a 'hosts' list if you're planning to do that.
 ---
 
 Please, share with your friends if this helped you! Thanks!
