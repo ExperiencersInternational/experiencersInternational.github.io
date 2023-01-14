@@ -78,13 +78,15 @@ Let's just say that the way to set up this is stupid. Really stupid. Thanks LG. 
 
 This guide is focused around having a wireless internet connection, so the steps for wired will be different.
 
+Considering how this firmware is old, and likely significantly different from the latest line of TVs, this information may not be accurate.
+
 1. Turn on your TV and open Home
 2. Click on the Network icon
 3. Press Start Connection
 4. Press Other Network List
 5. Press Manual Setup
 6. Press Wired or Wireless depending on what you're using
-7. (If you chose wireless) Select AP list (if your network is private, go to Enter the SSID)
+7. (If you chose wireless) Select AP list (if your SSID is hidden, go to Enter the SSID instead)
 8. (If you chose wireless) Select the network you want to set up advertisement blocking on
 9. (If you chose wireless and network is not open) Input your password and press OK
 10. Change DNS mode to manual input
