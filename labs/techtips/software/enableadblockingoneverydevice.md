@@ -44,7 +44,7 @@ May vary by different Android skins. For whatever reason, Android TV 9+ does not
 
 ### Nintendo 3DS
 
-The DSi follows a similar procedure to this, but you may have to scroll for internet settings and afaik, you need to use Connections 4, 5 or 6 to do this.
+The DSi follows a similar procedure to this, but you may have to scroll for internet settings and afaik, you need to use Connections 4, 5 or 6 to do this. By changing your DNS, if you use Sudomemo for Flipnote Studio, it will no longer work. This guide does not affect Nintendo DS Connections (Nintendo WFC in DS titles).
 
 1. Turn on your 3DS and open System Settings
 2. Press Internet Settings
@@ -71,6 +71,25 @@ I feel like this should be fairly obvious, but if you have a modded Nintendo Swi
 8. Press Save
 9. Perform a connection test if asked and it should work successfully
 10. You're now blocking advertisements on your Switch (albeit YouTube will still show adverts etc, and I don't know how much of a use this is on Switch)
+
+### LG TV (based on firmware 04.28.17 for a 3D TV from 2013)
+
+Let's just say that the way to set up this is stupid. Really stupid. Thanks LG. Although then again, making a new network connection in most cases for the DSi is not a great thing either.
+
+This guide is focused around having a wireless internet connection, so the steps for wired will be different.
+
+1. Turn on your TV and open Home
+2. Click on the Network icon
+3. Press Start Connection
+4. Press Other Network List
+5. Press Manual Setup
+6. Press Wired or Wireless depending on what you're using
+7. (If you chose wireless) Select AP list (if your network is private, go to Enter the SSID)
+8. (If you chose wireless) Select the network you want to set up advertisement blocking on
+9. (If you chose wireless and network is not open) Input your password and press OK
+10. Change DNS mode to manual input
+11. Input `94.140.14.14` using the keypad on your remote, moving to the next box if it doesn't automatically move with the right D-PAD button and press OK
+12. Your TV should connect successfully and advertisements will now be blocked
 
 ## Additional information
 
