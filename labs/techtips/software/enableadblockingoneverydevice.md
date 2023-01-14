@@ -4,7 +4,7 @@ Advertisements are annoying. I get that. And if you find them annoying, this gui
 
 Considering how I make YouTube videos and rely on the algorithm for revenue, I'd just like to say you will be harming people's revenue by doing this, and I'd recommend leaving a donation if you block adverts on their channel or site, besides, it'll often help more than the advertisement revenue.
 
-Warning: This can have unintended consequences such as some sites not loading with this, I'd recommend turning off your blocker temporarily if a certain site needs it.
+**Warning: This can have unintended consequences such as some sites not loading with this, I'd recommend turning off your blocker temporarily if a certain site needs it.**
 
 ## The guide
 
@@ -51,7 +51,7 @@ May vary by different Android skins. For whatever reason, Android TV 9+ does not
 5. Press change settings
 6. Touch the right arrow and set auto-obtain DNS to No
 7. Select detailed setup
-8. Change the primary and secondary DNS to `94.140.14.14` and `94.140.15.15` respectively
+8. Change the primary and secondary DNS to `094.140.014.014` and `094.140.015.015` respectively
 9. Save settings and perform a connection test
 10. Your advertisement blocker is now ready (although I don't know whether you're even going to see any adverts on a 3DS)
 
@@ -68,6 +68,15 @@ May vary by different Android skins. For whatever reason, Android TV 9+ does not
 9. Perform a connection test if asked and it should work successfully
 10. You're now blocking advertisements on your Switch (albeit YouTube will still show adverts etc, and I don't know how much of a use this is on Switch)
 
+## Additional information
+
+You might have noticed for most devices that I used either the IPs `94.140.14.14` or `94.140.15.15` for the configuration or the secure DNS of `dns.adguard-dns.com`, but there are some others which can do blocking of inappropriate websites (it also enables safesearch as well).
+
+Here's the additional ones:
+
+- IPv6 Advertisement Blocking only addresses: `2a10:50c0::ad1:ff` and `2a10:50c0::ad2:ff`
+- IPv4 Family Friendly DNS: `94.140.14.15`, `94.140.15.16` and `family.adguard-dns.com`
+- IPv6 Family Friendly DNS: `2a10:50c0::bad1:ff` and `2a10:50c0::bad2:ff`
 ---
 
 Please, share with your friends if this helped you! Thanks!
