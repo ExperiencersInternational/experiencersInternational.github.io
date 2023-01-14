@@ -10,7 +10,7 @@ Warning: This can have unintended consequences such as some sites not loading wi
 
 ### Generic
 
-This guide can be followed on anything, from a 3DS to your 3D television likely stuck in your basement. Yes I used 3D twice there. I cannot give exact information for your device, but you're going to have to deal with it.
+This guide can be followed on anything, from a 3DS (although there's a guide for that below) to your 3D television likely stuck in your basement. Yes I used 3D twice there. I cannot give exact information for your device, but you're going to have to deal with it.
 
 1. Turn on your device and open your device's settings
 2. Find network settings
@@ -41,6 +41,19 @@ May vary by different Android skins. For whatever reason, Android TV 9+ does not
 9. Set DNS 1 to `94.140.14.14`
 10. Set DNS 2 to `94.140.15.15`
 11. Advertisement blocking should now be configured (YouTube and certain streaming apps such as All 4 will show advertisements)
+
+### Nintendo 3DS
+
+1. Turn on your 3DS and open System Settings
+2. Press Internet Settings
+3. Select Connection Settings
+4. Select the connection you want to change your DNS for
+5. Press change settings
+6. Touch the right arrow and set auto-obtain DNS to No
+7. Select detailed setup
+8. Change the primary and secondary DNS to `94.140.14.14` and `94.140.15.15` respectively
+9. Save settings and perform a connection test
+10. Your advertisement blocker is now ready (although I don't know whether you're even going to see any adverts on a 3DS)
 
 ---
 
