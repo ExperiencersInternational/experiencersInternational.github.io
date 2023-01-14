@@ -1,4 +1,4 @@
-# Enable advertisement blocking on every device
+# Enable advertisement blocking on every device without installing any additional software
 
 Advertisements are annoying. I get that. And if you find them annoying, this guide will show you how to disable (well at least most of them), on every single device without needing something such as a PiHole. This uses AdGuards public DNS servers to run advertisement blocking.
 
@@ -66,7 +66,7 @@ May vary by different Android skins. For whatever reason, Android TV 9+ does not
 7. Set your primary DNS to `094.140.014.014` and your secondary DNS to `094.140.014.014`
 8. Press Save
 9. Perform a connection test if asked and it should work successfully
-10. You're now blocking advertisements on your Switch (albeit YouTube will still show adverts etc)
+10. You're now blocking advertisements on your Switch (albeit YouTube will still show adverts etc, and I don't know how much of a use this is on Switch)
 
 ---
 
