@@ -75,8 +75,8 @@ You might have noticed for most devices that I used either the IPs `94.140.14.14
 Here's the additional ones:
 
 - IPv6 Advertisement Blocking only addresses: `2a10:50c0::ad1:ff` and `2a10:50c0::ad2:ff`
-- IPv4 Family Friendly DNS: `94.140.14.15`, `94.140.15.16` and `family.adguard-dns.com`
-- IPv6 Family Friendly DNS: `2a10:50c0::bad1:ff` and `2a10:50c0::bad2:ff`
+- IPv4 Family Friendly DNS (as well as blocking ads): `94.140.14.15`, `94.140.15.16` and `family.adguard-dns.com`
+- IPv6 Family Friendly DNS (as well as blocking ads): `2a10:50c0::bad1:ff` and `2a10:50c0::bad2:ff`
 ---
 
 Please, share with your friends if this helped you! Thanks!
