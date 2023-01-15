@@ -93,6 +93,19 @@ Considering how this firmware is old, and likely significantly different from th
 11. Input `94.140.14.14` using the keypad on your remote, moving to the next box if it doesn't automatically move with the right D-PAD button and press OK
 12. Your TV should connect successfully and advertisements will now be blocked
 
+### Samsung Smart TV (based on version 2.9/2900)
+
+Considering how Samsung's Smart TV UI looks dramatically different, this probably won't be accurate for modern TVs.
+
+1. Turn on your TV and press Menu
+2. Scroll down and press Network
+3. Press Network Status
+4. Press IP settings
+5. Scroll down and select DNS setting to enter manually
+6. Input `94.140.14.14` in DNS server
+7. Press OK, your TV will check your network connection
+8. Advertisements will now be blocked on your device 
+
 ## Additional information
 
 You might have noticed for most devices that I used either the IPs `94.140.14.14` or `94.140.15.15` for the configuration or the secure DNS of `dns.adguard-dns.com`, but there are some others which can do blocking of inappropriate websites (it also enables safesearch as well).
