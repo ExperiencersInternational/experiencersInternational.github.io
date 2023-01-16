@@ -32,6 +32,7 @@ This is purely just something interesting hosting some tech tips, don't know how
 
 ### S
 
+- [Set data cap on data or a WiFi network](software/setdatausage)
 - [Store your music library in the cloud for free](web/storeyourmusiclibraryinthecloud)
 
 ### U
