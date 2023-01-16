@@ -71,6 +71,11 @@ I cannot guarantee all of the information is accurate, particularly with the ope
 - Windows 95 and newer (afaik)
 - Selects the taskbar if you're using a keyboard instead of a mouse to navigate
 
+### Windows + Tab
+
+- Windows 10 and 11
+- Opens the virtual desktop window
+
 ### Windows + V
 
 - Windows 10 (from a certain update, I think 1909) and 11
@@ -132,3 +137,15 @@ I cannot guarantee all of the information is accurate, particularly with the ope
 - unknown, likely Windows 3 or newer
 - Cuts the selected text or item
 
+### F8 (at boot up)
+
+- Windows 95 to 7
+- Opens startup options, such as booting into safe mode
+
+---
+
+Please share with your friends if this helped you, thank you!
+
+---
+
+ExperiencersInternational © 2023
