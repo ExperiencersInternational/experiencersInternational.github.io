@@ -3,7 +3,11 @@
 This is purely just something interesting hosting some tech tips, don't know how useful it is, but eh, maybe start a channel or something from my passions for tech.
 
 ## Go somewhere
-[C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [M](#m) [S](#s) [U](#u) [W](#w)
+[B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [M](#m) [S](#s) [U](#u) [W](#w)
+
+### B
+
+- [Backup a hard drive using Linux Mint](software/backupaharddriveusinglinuxmint)
 
 ### C
 
