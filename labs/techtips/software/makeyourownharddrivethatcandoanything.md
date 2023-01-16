@@ -45,6 +45,17 @@ Most of the apps we're going to install are going to be from PortableApps.com, h
 3. You should then install Firefox (or K-Meleon, this is more compatible with older Windows versions), Kaspersky TDSSKiller, BleachBit, 7zip, HWinfo, HWmonitor, Rufus, and CrystalDiskInfo
 4. Let these programs all install
 
+I should probably provide a quick explanation for each app you just downloaded, so here it is:
+
+- Firefox/K-Meleon: a web browser, Firefox has compatibility with Windows 7 or newer, and K-Meleon has compatibility with Windows XP (potentially older) or newer
+- Kaspersky TDSSKiller: rootkit remover
+- BleachBit: a better alternative to CCleaner that allows you to clean your systems junk and temporary files
+- 7Zip: a powerful archive program, useful for extracting 7Z and RAR files
+- HWinfo: displays information about your computer
+- HWmonitor: monitors statistics such as CPU temperature
+- Rufus: application that allows you to install a disk image to a USB
+- CrystalDiskInfo: displays information about your hard disk and whether you need to replace it
+
 For the other applications, we are relying on not using the platform, and we want to install a few essential apps.
 
 ### GUIFormat
