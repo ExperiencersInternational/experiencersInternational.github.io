@@ -2,6 +2,10 @@
 
 Do you use a lot of shortcuts? It's alright if you don't, but here's a list of every shortcut on your Windows PC (Windows + something).
 
+If you can download it, PowerToys, which works on Windows 10 and newer, is a Microsoft developed app with some great tools, and one of them is telling you about these shortcuts, it may come in handy some times.
+
+I cannot guarantee all of the information is accurate, particularly with the operating system requirements, but there may be some other inaccuracies here.
+
 ## Windows key shortcuts
 
 ### Windows + A
@@ -15,10 +19,20 @@ Do you use a lot of shortcuts? It's alright if you don't, but here's a list of e
 - On 8.x, it opens up the charms bar
 - On Windows 10 and 11, it opens Cortana
 
+### Windows + Ctrl + Shift + B
+
+- unknown
+- Restarts your display driver
+
 ### Windows + D
 
 - Windows 95 and newer
 - Shows desktop
+
+### Windows + E
+
+- Windows 95 and newer
+- Opens Windows Explorer
 
 ### Windows + I
 
@@ -27,10 +41,35 @@ Do you use a lot of shortcuts? It's alright if you don't, but here's a list of e
 - In metro apps in 8.x, it'll open settings for that app
 - In Windows 10 and 11, it opens Settings
 
+### Windows + K
+
+- Windows 8 and 8.1 (don't think it works with 10 and 11)
+- can't remember what the hell it does, think it opens some sharing options
+
+### Windows + L
+
+- unknown, likely NT 4/2000 and newer
+- Locks your PC
+
+### Windows + P
+
+- likely Windows 8 and newer
+- Opens projection options, e.g. to switch projection mode/device
+
+### Windows + R
+
+- Windows 95 and newer
+- Opens the Run dialog box, allowing you to execute an app or website 
+
 ### Windows + S
 
 - Windows 8, 8.1, 10 and 11
 - Opens the search menu, due to it being more separate from the start menu
+
+### Windows + T
+
+- Windows 95 and newer (afaik)
+- Selects the taskbar if you're using a keyboard instead of a mouse to navigate
 
 ### Windows + V
 
@@ -49,7 +88,47 @@ Do you use a lot of shortcuts? It's alright if you don't, but here's a list of e
 
 ## Non Windows key shortcuts
 
-### Special: Ctrl+Esc
+### Alt+F4
+
+- Windows 95 and newer (likely)
+- Closes the currently focused program
+- If all programs are closed and you're on the desktop, this will display power options
+
+### Alt+Tab
+
+- Windows 95 and newer
+- Switches the window currently open
+
+### Ctrl+Alt+Delete
+
+- Windows 1 or newer
+- In Windows 1 to 3, this should restart your computer
+- In Windows 95 to Me, this should open Task Manager
+- In Windows XP and newer, this should open security options, such as opening Task Manager and logging off
+- In Windows 2000 and newer, if you're at the log in screen and asks you to press it, it'll show you fields to enter your username and password
+
+### Ctrl+C
+
+- unknown, likely Windows 3 or newer
+- Copies the selected text or item
+
+### Ctrl+Esc
 
 - Windows 95 and newer
 - Opens start on devices with no start key
+
+### Ctrl+Shift+Esc 
+
+- unknown, likely Windows 95 or newer
+- Opens Task Manager
+
+### Ctrl+V
+
+- unknown, likely Windows 3 or newer
+- Pastes the newest text or item that you've copied
+
+### Ctrl+X
+
+- unknown, likely Windows 3 or newer
+- Cuts the selected text or item
+
