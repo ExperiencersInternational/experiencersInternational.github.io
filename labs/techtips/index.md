@@ -3,7 +3,7 @@
 This is purely just something interesting hosting some tech tips, don't know how useful it is, but eh, maybe start a channel or something from my passions for tech.
 
 ## Go somewhere
-[B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [M](#m) [S](#s) [U](#u) [W](#w)
+[B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [M](#m) [S](#s) [T](#t) [U](#u) [W](#w)
 
 ### B
 
@@ -38,6 +38,10 @@ This is purely just something interesting hosting some tech tips, don't know how
 
 - [Set data cap on data or a WiFi network](software/setdatausage)
 - [Store your music library in the cloud for free](web/storeyourmusiclibraryinthecloud)
+
+### T
+
+- [Take a screenshot](software/takeascreenshot)
 
 ### U
 
