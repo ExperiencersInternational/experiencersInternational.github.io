@@ -1,12 +1,14 @@
 # Restrict settings in Windows 10 and 11
 
-This guide tells you how to restrict settings on Windows 10 and 11 using the Group Policy editor, or an app called PolicyPlus. This can be useful for locking down settings for a child for instance (say you could stop them accessing the settings for where you can download apps from).
+This guide tells you how to restrict settings on Windows 10 and 11 using the Group Policy editor, or an open source app called PolicyPlus. This can be useful for locking down settings for a child for instance (say you could stop them accessing the settings for where you can download apps from).
 
-**WARNING: Despite disabling/enabling some settings work how they should, it might not work for other settings. e.g. Disabling windowsinsider seems to remove the Windows Update page entirely. Proceed at your own risk, and take notes of what you're doing.**
+**WARNING: Despite disabling/enabling some settings work how they should, it might not work for other settings, e.g. Disabling windowsinsider seems to remove the Windows Update page entirely. Proceed at your own risk, and take notes of what you're doing.**
 
-**WARNING 2: This does NOT disable settings in the legacy Control Panel app, but if you want to do some digging, you can disable those as well.**
+**WARNING 2: This guide does NOT show instructions to disable settings in the legacy Control Panel app, but if you want to do some digging, you can disable those as well.**
 
-## Using PolicyPlus
+## Instructions
+
+### Using PolicyPlus
 
 1. To start, download PolicyPlus from [https://github.com/Fleex255/PolicyPlus/releases](https://github.com/Fleex255/PolicyPlus/releases). Save it to anywhere you want (even an external hard drive), this application operates portably.
 2. After you've downloaded it, run it. If it asks you to get the latest ADMX definitions, press yes.
@@ -22,7 +24,7 @@ This guide tells you how to restrict settings on Windows 10 and 11 using the Gro
 12. You should receive a message saying Success. Your settings have successfully applied. <br> ![image](https://user-images.githubusercontent.com/56035537/214155382-12e1d168-5fef-416a-8d0e-5f4fd63840c5.png)
 13. Open Settings and your changes should have applied. If you think something is missing or not working, then you might have to enable more related components. <br> ![image](https://user-images.githubusercontent.com/56035537/214156384-923e999e-1d99-4e16-8d0b-18176f1add21.png) <br> ![image](https://user-images.githubusercontent.com/56035537/214156460-ee2a211d-690e-45cc-8cf4-28b61d2656f2.png)
 
-## Using Group Policy Editor
+### Using Group Policy Editor
 
 Requirements: Windows 10 or 11 Pro edition or better, Home edition does not work with this method.
 
