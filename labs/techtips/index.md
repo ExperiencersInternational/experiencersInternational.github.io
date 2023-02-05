@@ -16,6 +16,7 @@ This is purely just something interesting hosting some tech tips, don't know how
 ### D
 
 - [Detect USB speeds of a device](software/detectwhatusbspeeds)
+- [Dump your old Flipnotes as a video](software/dumpyouroldflipnotesasavideo)
 
 ### E
 
