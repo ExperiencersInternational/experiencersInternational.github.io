@@ -18,8 +18,8 @@ This guide assumes that all your Flipnotes are already on your SD card, but if n
 
 1. Power off your system and take the SD card out of it
 2. Insert the SD card in your SD card reader
-3. Open the drive where the SD card is located and navigate into `/private` <br> 
-4. a. For Flipnote Studio, open `/ds/app`. After that, open `/4B475556` if in Europe/Australia, `/4B475545` if in America, and `4B47554A` if in Japan. Then, simply navigate to `\001` and copy all `.ppm` files over.
+3. Open the drive where the SD card is located and navigate into `/private`
+4. a. For Flipnote Studio, open `/ds/app`. After that, open `/4B475556` if in Europe/Australia, `/4B475545` if in America, and `/4B47554A` if in Japan. Then, simply navigate to `/001` and copy all `.ppm` files over.
 4. b. For Flipnote Studio 3D, open `/Nintendo 3DS/app`. After that, open `/JKZP` if in Europe/Australia, `/JKZE` if in America, and `/JKZJ` if in Japan. Then, navigate to all the folders and copy all `.kwz` files over. Due to Flipnote Studio 3D having folders, these folders will follow any names of folders you've set in the app.
 5. After copying everything over, open up a web browser and navigate to [https://flipnote.rakujira.jp/](https://flipnote.rakujira.jp/).
 6. Click the Browse Files box, find the `.ppm` and `.kwz` files you copied over and select them. Unfortunately, you can only select one at a time, so you'll have to repeat for every Flipnote.
