@@ -22,6 +22,10 @@ Again, like the previous two, unless you already have downloaded this before, it
 
 Nintendo Badge Arcade has a few badges related to Splatoon, like the Splat Roller. It'll become harder to obtain as well, since you won't be able to pay for extra spins, and you'll have to deal with the 3 given to you each day.
 
+## What this means for preservation
+
+As stated in Nintendo's support article, they basically don't guarantee the ability to redownload forever. If there ever comes a time where your USB stick or SD card gets corrupted and redownloading is no longer available, you're out of luck. If you want to archive your games, I'd highly recommend modding your console, wiiu.hacks.guide and 3ds.hacks.guide is the best places to find information.
+
 ---
 
 Contact me @experiencersinternational@mstdn.social to add more information here
