@@ -6,7 +6,7 @@ You might have heard about overclocking your CPU or GPU, but have you ever overc
 
 **WARNING: This can have unintended consequences, such as your display occassionally showing a weird image (like my Nitro 5 does at 75Hz). You should also check that your GPU and HDMI ports are capable at pushing out faster clock speeds. In some cases, such as overclocking my 4K TV with a GTX 1050, overclocking just makes the whole system crash, since the HDMI port can't do any more than 4K 60Hz. This may also wear out your monitor, please proceed at your own risk.**
 
-**NOTE: Depending on the device, you may also lose colour depth by overclocking, and you may see a blank screen when testing an overclock, this means you've set it too high.
+**NOTE: Depending on the device, you may also lose colour depth by overclocking, and you may see a blank screen when testing an overclock, this means you've set it too high.**
 
 ## The guide
 
