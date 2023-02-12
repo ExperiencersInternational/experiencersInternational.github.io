@@ -6,7 +6,7 @@ You might have heard about overclocking your CPU or GPU, but have you ever overc
 
 **WARNING: This can have unintended consequences, such as your display occassionally showing a weird image (like my Nitro 5 does at 75Hz). You should also check that your GPU and HDMI ports are capable at pushing out faster clock speeds. In some cases, such as overclocking my 4K TV with a GTX 1050, overclocking just makes the whole system crash, since the HDMI port can't do any more than 4K 60Hz. This may also wear out your monitor, please proceed at your own risk.**
 
-**NOTE: Depending on the device, you may also lose colour depth by overclocking, and you may see a blank screen when testing an overclock, this means you've set it too high.**
+**NOTE: Depending on the device, you may also lose bit depth by overclocking, and you may see a blank screen when testing an overclock, this means you've set it too high.**
 
 ## The guide
 
@@ -30,6 +30,8 @@ To apply the overclock, simply find the resolution you set the overclock on, and
 
 TBA.
 
+This guide uses the Intel Graphics Command Center. If you have an ARC GPU, follow the all GPUs guide (idk whether Graphics Command Center works with ARC). If you only have the Intel Graphics Control Panel and you're running Windows 10 or newer, download it from the Microsoft Store. Integrated displays do not seem to work with this guide, however it does with Control Panel but it stops you from overclocking your display.
+
 ### Windows (All GPUs)
 
 TBA.
@@ -40,15 +42,19 @@ TBA.
 
 ## Recommended resolutions for certain devices
 
-Integrated monitor in Acer Nitro 5 AN515-54: 75Hz (it may suggest online that 90Hz works, but the colour depth is sacrified at that resolution, and the weird display bit depth thing may happen)
-Acer S220HQL: 66Hz
-LG 42LA860W-ZA: 77Hz (invalid output error after this)
-Samsung H5600: 75Hz (same as above, invalid output error after this)
-Toshiba 43in 4K QLED TV 2022 (forgot model): 90Hz (@ 1080p due to using a device to test which had a maximum of 4K30)
+- Integrated monitor in Acer Nitro 5 AN515-54: 75Hz (it may suggest online that 90Hz works, but the colour depth is sacrified at that resolution, and the weird display bit depth thing may happen)
+- Acer S220HQL: 66Hz (through DVI through a HDMI to DVI cable)
+- LG 42LA860W-ZA: 77Hz (invalid output error after this)
+- Samsung H5600: 75Hz (same as above, invalid output error after this)
+- Toshiba 43in 4K QLED TV 2022 (forgot model): 90Hz (@ 1080p due to using a device to test which had a maximum of 4K30)
 
 ## Conclusion
 
 This guide makes you consider again about dropping your old monitor, just because you want a faster refresh, when your existing device could output what you need anyways.
+
+## Additional information
+
+If you get a weird image occasionally on your display, you may have to press Control+Windows+Shift+B to restart the display driver, you may have to press it multiple times.
 
 ---
 
