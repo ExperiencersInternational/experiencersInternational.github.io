@@ -3,7 +3,7 @@
 This is purely just something interesting hosting some tech tips, don't know how useful it is, but eh, maybe start a channel or something from my passions for tech.
 
 ## Go somewhere
-[B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [M](#m) [R](#r) [S](#s) [T](#t) [U](#u) [W](#w)
+[B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [M](#m) [O](#o) [R](#r) [S](#s) [T](#t) [U](#u) [W](#w)
 
 ### B
 
@@ -34,6 +34,10 @@ This is purely just something interesting hosting some tech tips, don't know how
 ### M
 
 - [Make your own USB hard drive that can do anything](software/makeyourownharddrivethatcandoanything)
+
+### O
+
+- [Overclock your monitor](software/overclockmonitor)
 
 ### R
 
