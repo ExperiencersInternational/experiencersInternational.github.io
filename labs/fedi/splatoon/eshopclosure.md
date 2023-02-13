@@ -6,6 +6,8 @@ I can't write this all up in a single toot, and it's important to outline how it
 
 Splatoon will no longer be available digitally, however you'll still be able to redownload it if you've already purchased it. All updates will remain available to download.
 
+This game does have a physical release, so you will still be able to get it if you don't have it already, and it will probably be cheaper than the eShop anyways.
+
 ## Other games
 
 ### Animal Crossing New Leaf: Welcome Amiibo
@@ -25,6 +27,8 @@ Nintendo Badge Arcade has a few badges related to Splatoon, like the Splat Rolle
 ## What this means for preservation
 
 As stated in Nintendo's support article, they basically don't guarantee the ability to redownload forever. If there ever comes a time where your USB stick or SD card gets corrupted and redownloading is no longer available, you're out of luck. If you want to archive your games, I'd highly recommend modding your console, wiiu.hacks.guide and 3ds.hacks.guide is the best places to find information.
+
+**NOTE: In rare cases, modding can brick your console, and you may be banned from online services, although this is unlikely now unless you're hacking. Proceed at your own risk.**
 
 ---
 
