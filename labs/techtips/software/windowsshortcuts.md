@@ -61,7 +61,7 @@ I cannot guarantee all of the information is accurate, particularly with the ope
 - Windows 95 and newer
 - Opens the Run dialog box, allowing you to execute an app or website 
 
-### Windows + S
+### Windows + S (Windows + F shares same purpose afaik as well)
 
 - Windows 8, 8.1, 10 and 11
 - Opens the search menu, due to it being more separate from the start menu
@@ -90,6 +90,12 @@ I cannot guarantee all of the information is accurate, particularly with the ope
 
 - Windows 7 and newer (afaik)
 - Opens the app in that position on the taskbar
+
+### Windows + .
+
+- Windows 8 or newer (afaik)
+- In 8.x, the purpose is unknown, however it does show a border around your screen when pressing
+- In 10 or newer (from a certain feature update), it opens the emoji menu
 
 ## Non Windows key shortcuts
 
