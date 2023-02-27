@@ -3,7 +3,11 @@
 This is purely just something interesting hosting some tech tips, don't know how useful it is, but eh, maybe start a channel or something from my passions for tech.
 
 ## Go somewhere
-[B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [M](#m) [O](#o) [R](#r) [S](#s) [T](#t) [U](#u) [W](#w)
+[Misc](#misc) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [M](#m) [O](#o) [R](#r) [S](#s) [T](#t) [U](#u) [W](#w)
+
+### Misc
+
+- [3DS backup guide](software/3dsbackupguide)
 
 ### B
 
