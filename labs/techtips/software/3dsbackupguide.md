@@ -39,6 +39,15 @@ This guide will show you to backup a cartridge game in the CIA format. There's n
 7. Press A when you've found what you want, and press Build CIA (standard). **NOTE: For digital games, Citra, which is a 3DS emulator, recommends pressing Dump CXI/NDS file instead, but I don't know whether you can install CXI files through FBI.**
 8. This process will take a few minutes, and when done, your game will be in SD/gm9/out
 
+### Backup save data (not sure this works with DS games)
+
+**NOTE: The restoring process is similar, but please note that restoring a game's save data requires that you have created save data for the game already.**
+
+1. Turn on your 3DS and wait until the Home Menu appears
+2. Open the Checkpoint app on your 3DS, and find the game you want to backup
+3. Press A and then press backup
+4. Give it whatever name you want, it doesn't matter, and within a few seconds, it should be backed up
+
 ### Reinstall your games [3DS games]
 
 1. Turn on your 3DS and wait until the Home Menu appears
