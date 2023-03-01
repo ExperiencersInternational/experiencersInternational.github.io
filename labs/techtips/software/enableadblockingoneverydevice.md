@@ -104,7 +104,22 @@ Considering how Samsung's Smart TV UI looks dramatically different, this probabl
 5. Scroll down and select DNS setting to enter manually
 6. Input `94.140.14.14` in DNS server
 7. Press OK, your TV will check your network connection
-8. Advertisements will now be blocked on your device 
+8. Advertisements will now be blocked on your device
+
+### Windows XP or newer (guide written for Windows 7 or newer)
+
+Windows XP and Vista arranges their Control Panel in a different way, so they aren't mentioned here. It's also worth noticing that Windows 11 may not be compatible in the future, however there is already a replacement in Windows 11.
+
+1. Press Windows key + R on your computer, it should open a Run box.
+2. In this box, type 'control', this'll open the Control Panel application.
+3. In Control Panel, if it's on the Category view, change to Large Icons.
+4. Open up Network & Sharing Centre
+5. Press 'Change adapter options'
+6. Right click on the currently connected network adapter and press 'Properties'
+7. Find 'Internet Protocol Version 4' and press 'Properties'
+8. Press the button for use the following DNS addresses and put these in the two boxes: `94.140.14.14` and `94.140.15.15` and press OK
+9. Repeat steps 7 and 8 if you want to do it for IPv6, but use the addresses in this additional information section
+10. Press Close or OK, and you have now changed your DNS settings to block some advertisements!
 
 ## Additional information
 
