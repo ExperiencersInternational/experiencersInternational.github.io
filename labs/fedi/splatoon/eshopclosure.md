@@ -24,6 +24,10 @@ Again, like the previous two, unless you already have downloaded this before, it
 
 Nintendo Badge Arcade has a few badges related to Splatoon, like the Splat Roller. It'll become harder to obtain as well, since you won't be able to pay for extra spins, and you'll have to deal with the 3 given to you each day.
 
+### Swapdoodle
+
+Will no longer be downloadable from eShop if you haven't downloaded already. Mainly some DLC with some Splatoon content, like Splatoon Inklings and Things and Splatoon Inkopolis.
+
 ### 3DS Theme Shop
 
 Will no longer be purchasable but will still be able to redownload.
