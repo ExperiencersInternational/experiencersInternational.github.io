@@ -14,10 +14,12 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@floatayy@mastodon.social` - artist using Blender
 * `@GuestySFM@mastodon.social` - artist using both Blender and Source Filmmaker
 * `@JosephWinchester@mastodon.social`
+* `@LuRhyme_Spl@mastodon.social`
 * `@Mikeriders@mastodon.social`
 * `@NobodyTriple@mastodon.social` 
 * `@OctolingScarlet@mastodon.social`
 * `@PhantomFazbear@mastodon.social`
+* `@piparkaq@mastodon.social`
 * `@RogerDatSoldier@mastodon.social`
 * `@sammieweiss@mastodon.social`
 * `@ShellSFM@mastodon.social` - artist using Source Filmmaker
