@@ -35,6 +35,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@sammieweiss@mastodon.social`
 * `@ShellSFM@mastodon.social` - artist using Blender (and used to use Source Filmmaker)
 * `@Silverreploid@mastodon.social`
+* `@Soldiers_Expense@mastodon.social`
 * `@SquiddyBoi@mastodon.social`
 * `@starletheaven@mastodon.social`
 * `@stupjam@mastodon.art`
