@@ -26,6 +26,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@PhantomFazbear@mastodon.social`
 * `@piparkaq@mastodon.social`
 * `@RogerDatSoldier@mastodon.social`
+* `@RubyChi@mastodon.social`
 * `@RudyOctolingVA@mastodon.social`
 * `@sammieweiss@mastodon.social`
 * `@ShellSFM@mastodon.social` - artist using Source Filmmaker
@@ -34,5 +35,6 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@starletheaven@mastodon.social`
 * `@stupjam@mastodon.art`
 * `@TheLazyOctoling@mastodon.social`
+* `@WindyVortex@mastodon.social`
 
 thanks for reading and thanks for making great artwork. be sure to share this around!
