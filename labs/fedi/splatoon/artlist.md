@@ -14,7 +14,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@CStar@mastodon.social`
 * `@floatayy@mastodon.social` - artist using Blender
 * `@grimspyke@mstdn.social`
-* `@GuestySFM@mastodon.social` - artist using both Blender and Source Filmmaker
+* `@GuestySFM@mastodon.social` - artist using Blender and Source Filmmaker
 * `@JosephWinchester@mastodon.social`
 * `@KingLuigiMaster@mastodon.social`
 * `@Lucy_64@mastodon.social`
@@ -29,7 +29,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@RubyChi@mastodon.social`
 * `@RudyOctolingVA@mastodon.social`
 * `@sammieweiss@mastodon.social`
-* `@ShellSFM@mastodon.social` - artist using Source Filmmaker
+* `@ShellSFM@mastodon.social` - artist using Blender (and used to use Source Filmmaker)
 * `@Silverreploid@mastodon.social`
 * `@SquiddyBoi@mastodon.social`
 * `@starletheaven@mastodon.social`
