@@ -21,6 +21,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@KingLuigiMaster@mastodon.social`
 * `@Lucy_64@mastodon.social`
 * `@LuRhyme_Spl@mastodon.social`
+* `@metrogamer21@mastodon.social`
 * `@Mikeriders@mastodon.social`
 * `@mrriot4444@mastodon.social`
 * `@NobodyTriple@mastodon.social` 
