@@ -27,6 +27,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@RogerDatSoldier@mastodon.social`
 * `@sammieweiss@mastodon.social`
 * `@ShellSFM@mastodon.social` - artist using Source Filmmaker
+* `@Silverreploid@mastodon.social`
 * `@SquiddyBoi@mastodon.social`
 * `@starletheaven@mastodon.social`
 * `@stupjam@mastodon.art`
