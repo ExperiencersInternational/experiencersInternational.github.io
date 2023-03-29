@@ -10,6 +10,7 @@ If anyone has inaccurate information here (or would like to add information), co
 
 * `@AeroFrancisEX@mastodon.social`
 * `@AgentArc27@mastodon.xyz`
+* `@Ant19@mastodon.social` - no art on the fediverse at the time of writing
 * `@BlugiYT@mastodon.social`
 * `@ChaosSquishy20@mastodon.xyz`
 * `@clavidecharon@mastodon.social`
