@@ -8,6 +8,7 @@ If anyone has inaccurate information here (or would like to add information), co
 
 ## The list
 
+* `@BlugiYT@mastodon.social`
 * `@ChaosSquishy20@mastodon.xyz`
 * `@clavidecharon@mastodon.social`
 * `@CStar@mastodon.social`
