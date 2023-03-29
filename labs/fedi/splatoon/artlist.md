@@ -22,6 +22,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@Mikeriders@mastodon.social`
 * `@NobodyTriple@mastodon.social` 
 * `@OctolingScarlet@mastodon.social`
+* `@OsvaldoSFM@mastodon.social`
 * `@PhantomFazbear@mastodon.social`
 * `@piparkaq@mastodon.social`
 * `@RogerDatSoldier@mastodon.social`
