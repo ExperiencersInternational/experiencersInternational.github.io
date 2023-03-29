@@ -37,6 +37,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@starletheaven@mastodon.social`
 * `@stupjam@mastodon.art`
 * `@TheLazyOctoling@mastodon.social`
+* `@VamppawMonster@mastodon.social`
 * `@WindyVortex@mastodon.social`
 
 thanks for reading and thanks for making great artwork. be sure to share this around!
