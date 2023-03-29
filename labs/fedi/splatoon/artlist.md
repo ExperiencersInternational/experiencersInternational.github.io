@@ -12,6 +12,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@clavidecharon@mastodon.social`
 * `@CStar@mastodon.social`
 * `@floatayy@mastodon.social` - artist using Blender
+* `@grimspyke@mstdn.social`
 * `@GuestySFM@mastodon.social` - artist using both Blender and Source Filmmaker
 * `@JosephWinchester@mastodon.social`
 * `@KingLuigiMaster@mastodon.social`
