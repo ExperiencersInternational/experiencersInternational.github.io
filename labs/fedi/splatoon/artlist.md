@@ -12,6 +12,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@BlugiYT@mastodon.social`
 * `@ChaosSquishy20@mastodon.xyz`
 * `@clavidecharon@mastodon.social`
+* `@CrazyCrafter223@mastodon.social`
 * `@CStar@mastodon.social`
 * `@floatayy@mastodon.social` - artist using Blender
 * `@grimspyke@mstdn.social`
