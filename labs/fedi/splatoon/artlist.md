@@ -19,6 +19,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@floatayy@mastodon.social` - artist using Blender
 * `@grimspyke@mstdn.social`
 * `@GuestySFM@mastodon.social` - artist using Blender and Source Filmmaker
+* `@InkH@mastodon.social`
 * `@JosephWinchester@mastodon.social`
 * `@KingLuigiMaster@mastodon.social`
 * `@Lucy_64@mastodon.social`
