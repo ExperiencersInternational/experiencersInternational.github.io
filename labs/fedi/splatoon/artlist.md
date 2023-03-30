@@ -43,6 +43,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@starletheaven@mastodon.social`
 * `@stupjam@mastodon.art`
 * `@TheLazyOctoling@mastodon.social`
+* `@tsitraami@mastodon.social`
 * `@VamppawMonster@mastodon.social`
 * `@WindyVortex@mastodon.social`
 
