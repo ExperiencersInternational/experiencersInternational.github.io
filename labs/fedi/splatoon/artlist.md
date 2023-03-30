@@ -16,7 +16,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@clavidecharon@mastodon.social`
 * `@CrazyCrafter223@mastodon.social`
 * `@CStar@mastodon.social`
-* `@floatayy@mastodon.social` - artist using Blender
+* `@floatayy@mastodon.social` - artist using Blender - [commission sheet](https://floatycomms.carrd.co/)
 * `@grimspyke@mstdn.social`
 * `@GuestySFM@mastodon.social` - artist using Blender and Source Filmmaker
 * `@InkH@mastodon.social`
@@ -42,7 +42,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@Soldiers_Expense@mastodon.social`
 * `@SquiddyBoi@mastodon.social`
 * `@starletheaven@mastodon.social`
-* `@stupjam@mastodon.art`
+* `@stupjam@mastodon.art` - [commission sheet](https://stupjam.carrd.co/#comm)
 * `@TheLazyOctoling@mastodon.social`
 * `@tsitraami@mastodon.social`
 * `@VamppawMonster@mastodon.social`
