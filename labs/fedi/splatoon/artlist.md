@@ -33,6 +33,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@OsvaldoSFM@mastodon.social`
 * `@PhantomFazbear@mastodon.social`
 * `@piparkaq@mastodon.social`
+* `@redlockhart02@mastodon.xyz`
 * `@RogerDatSoldier@mastodon.social`
 * `@RubyChi@mastodon.social`
 * `@RudyOctolingVA@mastodon.social`
