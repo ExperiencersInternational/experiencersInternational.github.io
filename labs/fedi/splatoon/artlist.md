@@ -45,6 +45,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@stupjam@mastodon.art` - [commission sheet](https://stupjam.carrd.co/#comm)
 * `@TheLazyOctoling@mastodon.social`
 * `@tsitraami@mastodon.social`
+* `@TwoDevSensei@mastodon.social`
 * `@VamppawMonster@mastodon.social`
 * `@WindyVortex@mastodon.social`
 
