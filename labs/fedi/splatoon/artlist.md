@@ -35,6 +35,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@piparkaq@mastodon.social`
 * `@redlockhart02@mastodon.xyz`
 * `@RogerDatSoldier@mastodon.social`
+* `@rxgue@mastodon.social`
 * `@RubyChi@mastodon.social`
 * `@RudyOctolingVA@mastodon.social`
 * `@sammieweiss@mastodon.social`
