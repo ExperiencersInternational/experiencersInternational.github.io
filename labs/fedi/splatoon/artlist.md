@@ -28,7 +28,6 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@metrogamer21@mastodon.social`
 * `@Mikeriders@mastodon.social`
 * `@mrriot4444@mastodon.social`
-* **WARNING: Artist posts suggestive NSFW content. You must be over 18 to see it.** `@namomona_3@fedibird.com`
 * `@NobodyTriple@mastodon.social` 
 * `@octo10system_yt@mastodon.social`
 * `@OctolingScarlet@mastodon.social`
