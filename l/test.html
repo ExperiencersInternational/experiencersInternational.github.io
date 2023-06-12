@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>This is a test page</title>
+        <title>Random number and letter generator</title>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Roboto+Mono&display=swap" rel="stylesheet">
         <script>
             // i cant do javascript so this definitely isnt taken off of stack overflow
             function makeid(length) {
@@ -15,12 +16,18 @@
                 }
 
                 document.getElementById("res").innerHTML = result;
+                console.log("Result is " + result);
             }
         </script>
     </head>
+    <style>
+        body {
+            background-color: black;
+            font-family: Roboto Mono, Consolas, monospace, sans-serif;
+        }
+    </style>
     <body onload="makeid(6);">
-        <p>This is a test page</p>
-        <br>
-        <h1 id="res">result goes here</h1>
+        <h1>Random number and letter generator</h1>
+        <h2 id="res">result goes here</h2>
     </body>
 </html>
