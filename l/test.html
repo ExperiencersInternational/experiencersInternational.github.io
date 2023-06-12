@@ -13,13 +13,12 @@
                     result += characters.charAt(Math.floor(Math.random() * charactersLength));
                     counter += 1;
                 }
-                return result;
-            }
 
-            document.getElementById("res").innerHTML = makeid(6)
+                document.getElementById("res").innerHTML = result;
+            }
         </script>
     </head>
-    <body>
+    <body onload="makdid(6);">
         <p>This is a test page</p>
         <br>
         <p id="res">result goes here</p>
