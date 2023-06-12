@@ -2,10 +2,26 @@
 <html>
     <head>
         <title>This is a test page</title>
+        <script>
+            // i cant do javascript so this definitely isnt taken off of stack overflow
+            function makeid(length) {
+                let result = '';
+                const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+                const charactersLength = characters.length;
+                let counter = 0;
+                while (counter < length) {
+                    result += characters.charAt(Math.floor(Math.random() * charactersLength));
+                    counter += 1;
+                }
+                return result;
+            }
+
+            document.getElementById("res").innerHTML = makeid(6)
+        </script>
     </head>
     <body>
         <p>This is a test page</p>
-        <input>
-        <button>do something exciting</button>
+        <br>
+        <p id="res">result goes here</p>
     </body>
 </html>
