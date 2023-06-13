@@ -1,7 +1,7 @@
 {
-    "name": "ExperiencersInternational's GitHub Portal",
+    "name": "ExperiencersInternational",
     "shortname": "Experiencer",
-    "starturl": "https://experiencersinternational.github.io/shortlinks/index.html",
+    "starturl": "https://experiencersinternational.github.io/index.html",
     "display": "standalone",
     "icons": [
         {
