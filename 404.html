@@ -1,39 +1,64 @@
 <!doctype HTML>
 <html>
 <head>
-<title>404 Page Not Found</title>
+<title>Error 404</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
-<link rel="manifest" href="assets/manifest.json">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Roboto+Mono&display=swap" rel="stylesheet">
+<link rel="manifest" href="manifest.json">
+<link rel="me" href="https://mstdn.social/@experiencersinternational">
+<link rel="me" href="https://masto.ai/@splatoon">
+<link rel="me" href="https://wetdry.world/@splatoon">
+<link rel="me" href="https://i.calckey.cloud/@experiencer">
 </head>
 <style>
 p, li {
- font-size: 40px;
+ font-size: 4vw;
 }
 a, a:link, a:visited, a:hover, a:active {
 color: white;
 }
 body {
- background-color: darkslategray;
+ background-color: black;
  color: white;
- text-align: center;
  font-family: Inter;
 }
 .head {
- background-color: darkcyan;
- text-align: center;
- border-radius: 15px;
- height: absolute;
+ background-color: rgba(35, 35, 35, 1);
+ text-align: left;
+ width: 100%;
+ padding: 4px;
+right: 8px;
 }
 .title {
- padding: 8px;
+ padding: 0.5em;
  font-family: Inter 800, sans-serif;
-font-size: 48px;
+font-size: 10vw;
+}
+.monotext {
+ font-family: Roboto Mono, Inter, sans-serif;
+}
+.smallparagraph {
+ font-size: 2.5vw;
+}
+.box {
+ background-color: rgba(35, 35, 35, 1);
+ width: 92vw;
+ right: 4vw;
+ border-radius: 8vw;
+}
+.padding {
+ padding: 0.5em;
+}
+.leftalign {
+ text-align: left;
+}
+.centeralign {
+ text-align: center;
 }
 </style>
 <body>
-<header><div class="head"><h3 class="title">Error 404</h3></div></header>
-<p>We tried hard to find what you're looking for, but it looks like it doesn't exist. Did you check the URL that you entered in?</p>
+<p class="monotext centeralign">Error 404</p>
+<p class="centeralign">We couldn't find the page that you were looking for. Try checking that you used the correct spelling. Else, you can <a href="index.html">return to the main page</a>.</p>
 </body>
 </html>
