@@ -1,6 +1,6 @@
 # Splatoon Unofficial in different languages
 
-- English: `@splatoon@masto.ai`
+- English: `@splatoon@wetdry.world`
 
 Unfortunately, English is the only language we currently have, but we want to expand into different languages, and below is how you can help.
 
