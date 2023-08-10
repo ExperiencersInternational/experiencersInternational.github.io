@@ -56,6 +56,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@tsitraami@mastodon.social`
 * `@TwoDevSensei@mastodon.social`
 * `@VamppawMonster@mastodon.social`
+* `@vari@wetdry.world`
 * `@WindyVortex@mastodon.social`
 * `@YasushiAkira28@mastodon.social`
 
