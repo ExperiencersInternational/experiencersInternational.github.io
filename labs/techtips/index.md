@@ -2,7 +2,7 @@
 
 This is purely just something interesting hosting some tech tips, don't know how useful it is, but eh, maybe start a channel or something from my passions for tech.
 
-[See the new tech tips blog.](https://experiencersinternational.substack.com)
+[See the new tech tips blog, I don't really post anything on this GitHub page anymore.](https://experiencersinternational.substack.com)
 
 ## Go somewhere
 [Misc](#misc) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [H](#h) [M](#m) [O](#o) [R](#r) [S](#s) [T](#t) [U](#u) [W](#w)
