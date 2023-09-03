@@ -13,6 +13,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@anna_anima@oomfie.city` - *active account*
 * `@Ant19@mastodon.social` - *inactive since 9/5/23*
 * `@BlugiYT@mastodon.social`
+* `@booyahBoombox@splatsville.social`
 * `@Butterfree@lethallava.land`
 * `@ChaosSquishy20@mastodon.xyz`
 * `@clavidecharon@mastodon.social`
