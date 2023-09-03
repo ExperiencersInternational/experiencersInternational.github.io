@@ -34,7 +34,7 @@ If anyone has inaccurate information here (or would like to add information), co
 * `@Mikeriders@mastodon.social` - *inactive since 12/5/23*
 * `@mrriot4444@mastodon.social`
 * `@NobodyTriple@mastodon.social`
-* `@NorthWestWind@wetdry.world` - *active account*
+* `@NorthWestWind@mastodon.art` - *active account*
 * `@octo10system_yt@mastodon.social`
 * `@OctolingScarlet@mastodon.social` - *inactive since 3/4/23*
 * `@OsvaldoSFM@mastodon.social`
