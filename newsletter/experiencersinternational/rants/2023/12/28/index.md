@@ -1,4 +1,4 @@
-# An always online future scares me
+# An always online future in gaming scares me
 
 If you know me, you probably know that I own a PlayStation 4. Unlike my Nintendo consoles, I generally don't spend much time on it. However, on Christmas Day, I was gifted Gran Tourismo 7.
 
@@ -51,8 +51,10 @@ Cabling up my devices would be awkward, as my PS4 is upstairs (above the kitchen
 
 It just isn't possible. And anyways, my focus is for when the servers for this game eventually shut down.
 
-As far as I know, we haven't experienced any major permanent shutdown for certain aspects of PlayStation Network, but the network has been down for as long as 30 days in the past (2011 hack). People should not have to avoid a game that they might adore for 30 days just because a company decides to not have the servers up.
+As far as I know, we haven't experienced any major permanent shutdown for certain aspects of PlayStation Network, but the network has been down for as long as 30 days in the past (2011 hack). People should not have to avoid a game that they might adore for 30 days just because a company decides to not have the servers up. It honestly sucks.
 
-I'm going to end this since it is 2:20am at the time of writing this, but this is a serious issue that needs to be discussed more imo.
+Also, I didn't mention this initially when I first published this, but I had a disconnection happen (I've had roughly 5 in total now) during a 15 minute race. When the race finished, I was still disconnected and I lost the progress that I made during that race (I was doing it for a quest). This meant that I had to waste 15 minutes doing this again. Thanks Sony!
+
+I'm going to end this since I have covered the main points that I wanted to cover here in today's rant. I wish that we would talk about stuff like this more, because it is a serious concern.
 
 Thanks for reading.
