@@ -1,4 +1,5 @@
 # An always online future in gaming scares me
+##### 28th December 2023
 
 If you know me, you probably know that I own a PlayStation 4. Unlike my Nintendo consoles, I generally don't spend much time on it. However, on Christmas Day, I was gifted Gran Tourismo 7.
 

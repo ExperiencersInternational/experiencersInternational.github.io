@@ -1,4 +1,5 @@
 # Why did we let the headphone jack get removed?
+##### 9th January 2024
 
 Last night, I decided to use my wireless earphones to listen to some music as I was trying to cut my music library down (I have around 8GB of music at the moment on my phone's SD card and I really need to move this all to internal storage since my SD is slow because it's a class 4 card).
 
